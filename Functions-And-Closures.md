@@ -1,4 +1,4 @@
-# Go - Part 2
+# Functions-And-Closures
 
 #### Functions
 - In Go, functions can return multiple values.
