@@ -1,4 +1,4 @@
-# Go - Part 4
+# Loops-Maps-And-Slices
 
 #### Loops
 
