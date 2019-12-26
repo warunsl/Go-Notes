@@ -6,7 +6,7 @@
 - `int`, `int8`, `int16`, `int32`, `int64`
 - `uint`, `uint8`, `uint16`, `uint32`, `uint64`, `uintptr`.
 - Can't assign `int` to an `int32` or vice-versa. Needs explicit casting.
-- `byte` (`unit8`)
+- `byte` (`uint8`)
 - `rune` (`int32`)
 - `float32`, `float64`
 - `complex64`, `complex128` - Numbers that end with i.
