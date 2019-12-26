@@ -1,4 +1,4 @@
-# Go - Part 5
+# Interfaces
 
 #### Methods and Interface
 
