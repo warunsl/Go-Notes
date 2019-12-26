@@ -1,4 +1,4 @@
-# Go - Part 1
+# Basic-Language-Constructs
 
 #### Basic types
 - `bool`
@@ -46,7 +46,7 @@ a, b, c := 1, false, 2
 
 #### Pointers
 - Declaring pointers    
-````
+```
 message := "Hello world"
 var msgPtr *string = &message
 ```
@@ -102,4 +102,3 @@ const (
 	C
 )
 ```
-
