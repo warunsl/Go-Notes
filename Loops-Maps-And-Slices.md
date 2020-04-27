@@ -68,13 +68,13 @@ delete(prefixMap, "Amy") // preferred.
 prefixMap["Amy"] = "", false // deleting with older version of Go
 
 // Checking for existance.
-if val, exists := prefixMap["Bob"] exists {
+if val, exists := prefixMap["Bob"]; exists {
 	return val
 }
 
 // Default value for a map.
 // Here, the return "Hello" serves as a default value for a key that does not exist. Because in that case, the `exists` is false.
-if val, exists := prefixMap["Bob"] exists {
+if val, exists := prefixMap["Bob"]; exists {
 	return val
 }
 return "Hello"
